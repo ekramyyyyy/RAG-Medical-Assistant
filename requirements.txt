@@ -1,0 +1,6 @@
+streamlit
+google-genai
+qdrant-client
+sentence-transformers
+python-dotenv
+groq
