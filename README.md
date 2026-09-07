@@ -44,3 +44,34 @@ streamlit run app.py
 - `guardrails/emergency.py`, `guardrails/vagueness.py`, `guardrails/confidence.py`
 - `requirements.txt` — dependencies
 - `.env.example` — template only, no real secrets (real ones go in Streamlit Secrets)
+  
+## 📚 Data Sources
+
+This project uses the following medical resources:
+
+### 🩺 MedQuAD
+Medical Question Answering Dataset.
+
+🔗 [MedQuAD GitHub Repository](https://github.com/abachaa/MedQuAD)
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+
+### 🌐 Wikipedia
+Wikipedia content is retrieved programmatically through the MediaWiki API.
+
+🔗 [Wikipedia MediaWiki API](https://en.wikipedia.org/w/api.php)
+
+🔗 [MediaWiki API Documentation](https://www.mediawiki.org/wiki/API:Main_page)
+
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+### 📖 Gale Encyclopedia of Medicine
+Gale Encyclopedia of Medicine, Second Edition, used as a medical reference.
+
+🔗 [Gale Encyclopedia of Medicine — Second Edition](https://academia.edu/32752835/The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND_EDITION)
+
+> **Copyright Notice:** Copyright © 2002 Gale Group. All rights reserved.
+>
+> This source is not represented as an open-source or Creative Commons resource. Permission or an applicable legal basis should be verified before redistributing the book or substantial extracted content.
