@@ -89,7 +89,7 @@ EMERGENCY_PATTERNS = {
     "breathing": [
         ["can't breathe"], ["cant breathe"], ["not breathing"], ["choking"],
         ["breathing", "severe"], ["مش قادر", "اتنفس"], ["لا أستطيع التنفس"],
-        ["اختناق"], ["توقف التنفس"],["بيموت"],["يموت"],["بيحتضر"]["يحتضر"],
+        ["اختناق"], ["توقف التنفس"],["بيموت"],["يموت"],["بيحتضر"],["يحتضر"],
     ],
     "suicide_self_harm": [
         ["kill myself"], ["want to die"], ["end my life"], ["suicide"], ["suicidal"],
