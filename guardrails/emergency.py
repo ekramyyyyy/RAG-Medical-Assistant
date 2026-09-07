@@ -79,7 +79,7 @@ EMERGENCY_PATTERNS = {
         # [SAFETY FIX] Colloquial Arabic very commonly describes chest pain
         # as pain "in the heart" ("ألم في القلب") rather than "in the chest".
         ["قلب", "ألم"], ["قلب", "ضيق"], ["قلب", "ضغط"],
-        ["جلطة قلبية"], ["أزمة قلبية"], ["نوبة قلبية"],["بيموت"],["يموت"],["بيحتضر"]["يحتضر"],
+        ["جلطة قلبية"], ["أزمة قلبية"], ["نوبة قلبية"],["بيموت"],["يموت"],["بيحتضر"],["يحتضر"],
     ],
     "stroke": [
         ["face", "droop"], ["speech", "slur"], ["numbness", "sudden"],["dying"],
